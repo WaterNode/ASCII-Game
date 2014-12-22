@@ -3,8 +3,9 @@ package ascii.game.main;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		char[][] map = new char[200][200];
+		while(true) {
+			
+		}
 	}
-
 }
